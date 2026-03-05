@@ -68,4 +68,5 @@ Softmax Output (Food Categories)
 Clone repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/Food-Recognition-System.git
+
+git clone https://github.com/Mayank7744/Food-Recognition-System.git
